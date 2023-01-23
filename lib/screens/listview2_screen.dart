@@ -22,7 +22,7 @@ class Listview2Screen extends StatelessWidget {
               color: Colors.indigo,
             ),
             onTap: () {
-              print(options[i]);
+              //print(options[i]);
             },
           ),
           separatorBuilder: (_, __) => const Divider(),
